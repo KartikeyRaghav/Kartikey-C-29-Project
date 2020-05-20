@@ -1,2 +1,2 @@
-# Kartikey-C-29-Project
-Creating the second part of the three series project
+# Kartikey-Project-C-28
+Creating the first part of the three series project.
